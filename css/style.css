@@ -50,9 +50,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-div{
-	border: 1px solid;
-}
+
 nav{
 	background-color: #FFFFFF;
 }
@@ -124,7 +122,7 @@ nav{
 }
 .main h1{
 font-size: 3.125rem;
-margin-top: 17.5rem;
+padding-top: 25rem;
 }
 .main h3{
 	margin-top: 1.25rem;
